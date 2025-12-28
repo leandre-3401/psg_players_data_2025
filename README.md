@@ -18,7 +18,6 @@ The script uses `pandas.read_html()` to fetch tables from the FBref page, prints
 ## Repository contents
 
 - `psg_export.py` — main script :contentReference[oaicite:1]{index=1}
-- `psg_stats_2024_2025.xlsx` — generated export (Excel)
 - `psg_stats_2024_2025.csv` — optional/alternative export (CSV, easier to preview on GitHub)
 
 > Note: GitHub usually does **not preview `.xlsx` files** nicely. If you want data to be readable directly in the repo, prefer a `.csv`.
